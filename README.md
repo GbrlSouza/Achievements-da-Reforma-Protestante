@@ -39,11 +39,11 @@ As imagens das conquistas estão listadas abaixo para referência visual.
 
 | Título | Imagem |
 | :---: | :---: |
-| **Push para Wittenberg** | !['Badge: As Cinco Chaves'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Push%20para%20Wittenberg.png) |
-| **Parsing Definitivo** | !['Badge: Branch Master Limpa'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Parsing%20Definitivo.png) |
-| **Justificação pela Fé** | !['Badge: Internacionalização Concluída (i18n)'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Justificação%20pela%20Fé.png) |
-| **Peer Review para Todos** | !['Badge: Justificação pela Fé'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Peer%20Review%20para%20Todos.png) |
-| **Internacionalização Concluída (i18n)** | !['Badge: Parsing Definitivo'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Internacionalização%20Concluída%20(i18n).png) |
-| **Refatoração Contínua** | !['Badge: Peer Review para Todos'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Refatoração%20Contínua.png) |
-| **Branch Master Limpa** | !['Badge: Push para Wittenberg'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Branch%20Master%20Limpa.png) |
-| **As Cinco Chaves** | !['Badge: Refatoração Contínua'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/As%20Cinco%20Chaves.png) |
+| **Push para Wittenberg** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Push%20para%20Wittenberg.png" alt="Badge: Push para Wittenberg" width="300px"> |
+| **Parsing Definitivo** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Parsing%20Definitivo.png" alt="Badge: Parsing Definitivo" width="300px"> |
+| **Justificação pela Fé** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Justificação%20pela%20Fé.png" alt="Badge: Justificação pela Fé" width="300px"> |
+| **Peer Review para Todos** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Peer%20Review%20para%20Todos.png" alt="Badge: Peer Review para Todos" width="300px"> |
+| **Internacionalização Concluída (i18n)** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Internacionalização%20Concluída%20(i18n).png" alt="Badge: Internacionalização Concluída (i18n)" width="300px"> |
+| **Refatoração Contínua** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Refatoração%20Contínua.png" alt="Badge: Refatoração Contínua" width="300px"> |
+| **Branch Master Limpa** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/Branch%20Master%20Limpa.png" alt="Badge: Branch Master Limpa" width="300px"> |
+| **As Cinco Chaves** | <img src="https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/badge/As%20Cinco%20Chaves.png" alt="Badge: As Cinco Chaves" width="300px"> |
