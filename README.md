@@ -4,6 +4,8 @@
 >
 > — *Martinho Lutero (em essência)*
 
+!['Badge: As Cinco Chaves'](https://raw.githubusercontent.com/GbrlSouza/Achievements-da-Reforma-Protestante/main/banner.png)
+
 Este repositório é uma coleção de **Achievements** (conquistas) que unem a história e a teologia da **Reforma Protestante** (iniciada em **31 de Outubro de 1517**) com conceitos modernos de **programação e desenvolvimento de software**.
 
 O objetivo é gamificar a jornada de um desenvolvedor, celebrando marcos importantes com uma perspectiva histórica e cultural única.
